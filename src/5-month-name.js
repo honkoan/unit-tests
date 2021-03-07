@@ -5,4 +5,4 @@ const months = [
 
 export const monthName = (monthNumber) => {
   return months[monthNumber]
-}
+} 
